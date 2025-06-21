@@ -1,6 +1,9 @@
 # GTA5_Decompiled-Scripts
-## Current Version: 889.15
-## Game Build: 3570
+## Current Version:
+889.15
+
+## Game Build:
+3570
 
 ## Decompiled by
 - CSY0N
